@@ -10,7 +10,7 @@ pipeline {
 
                     sleep 400 
 
-                    echo 'This is the main branch'
+                    echo 'This is a testing branch'
 
             }
 
